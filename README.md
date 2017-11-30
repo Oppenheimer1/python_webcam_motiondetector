@@ -1,0 +1,1 @@
+## A Motion Detector application built with Python that opens up the webcam and identifies moving objects and records the start and end time when the objects show up.
